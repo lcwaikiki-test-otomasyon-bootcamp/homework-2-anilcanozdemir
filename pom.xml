@@ -5,9 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>SeleniumGiris</artifactId>
+    <artifactId>homework2deneme</artifactId>
     <version>1.0-SNAPSHOT</version>
-
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
@@ -39,5 +38,11 @@
             <artifactId>extentreports-cucumber7-adapter</artifactId>
             <version>1.5.1</version>
         </dependency>
+
     </dependencies>
+    <properties>
+        <maven.compiler.source>18</maven.compiler.source>
+        <maven.compiler.target>18</maven.compiler.target>
+    </properties>
+
 </project>
